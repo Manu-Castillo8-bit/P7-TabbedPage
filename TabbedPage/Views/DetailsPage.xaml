@@ -4,32 +4,20 @@
              x:Class="TabbedPage.Views.SettingsPage">
     
     <VerticalStackLayout Spacing="15" Padding="20">
-        <Label Text="Configuración" 
-               FontSize="24"
-               FontAttributes="Bold"
-               Margin="0,20"/>
-        
-        <SwitchCell Text="Notificaciones"/>
-        <SwitchCell Text="Modo Oscuro"/>
-        <SwitchCell Text="Guardar datos"/>
-        
-        <Label Text="Preferencias" 
-               FontSize="18"
-               FontAttributes="Bold"
-               Margin="0,20,0,10"/>
-        
-        <Picker Title="Selecciona un tema">
-            <Picker.Items>
-                <x:String>Claro</x:String>
-                <x:String>Oscuro</x:String>
-                <x:String>Sistema</x:String>
-            </Picker.Items>
-        </Picker>
-        
-        <Button Text="Aplicar Cambios" 
-                BackgroundColor="{StaticResource PrimaryColor}"
-                TextColor="White"
-                CornerRadius="10"
-                Margin="0,20"/>
+        <Label Text="Bienvenido" 
+          FontSize="32" 
+          HorizontalOptions="Center"
+          TextColor="{StaticResource PrimaryColor}"/>
+
+        <Label Text="Esta es la página de detalles" 
+          FontSize="18"
+          HorizontalOptions="Center"/>
+
+
+
+        <Image Source="dotnet_bot.png" 
+          WidthRequest="200"
+          HeightRequest="200"
+          HorizontalOptions="Center"/>
     </VerticalStackLayout>
 </ContentPage>

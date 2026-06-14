@@ -1,12 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
  
-           
-
+        
 <TabbedPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-            xmlns:local="clr-namespace:TabbedPage"
-            x:Class="TabbedPage.MainPage">
-   
+            xmlns:views="clr-namespace:TabbedPage.Views"
+            x:Class="TabbedPage.MainTabbedPage"
+            BarBackgroundColor="{StaticResource PrimaryColor}"
+            BarTextColor="White">
+    
+    <!-- Pestaña 1: Inicio -->
+    <views:HomePage Title="Inicio" IconSource="home_icon.png" />
+    
+    <!-- Pestaña 2: Perfil -->
+    <views:ProfilePage Title="Perfil" IconSource="profile_icon.png" />
+    
+    <!-- Pestaña 3: Configuración -->
+    <views:SettingsPage Title="Configuración" IconSource="settings_icon.png" />
+
 </TabbedPage>
 
 

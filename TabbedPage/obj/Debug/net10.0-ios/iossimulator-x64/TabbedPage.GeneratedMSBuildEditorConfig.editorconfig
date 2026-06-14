@@ -76,6 +76,16 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
+[C:/Users/User/Desktop/Práctica 7/TabbedPage/TabbedPage/Views/DetailsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TabbedPage.Views.DetailsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\DetailsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\DetailsPage.xaml
+build_metadata.AdditionalFiles.Inflator = SourceGen
+build_metadata.AdditionalFiles.NoWarn = 
+build_metadata.AdditionalFiles.EnableDiagnostics = 
+build_metadata.AdditionalFiles.LineInfo = 
+
 [C:/Users/User/Desktop/Práctica 7/TabbedPage/TabbedPage/Views/HomePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TabbedPage.Views.HomePage.xaml

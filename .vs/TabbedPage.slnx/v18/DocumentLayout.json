@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\TabbedPage\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C444C8D-441B-6DB9-71E1-D0D018414F2C}|TabbedPage\\TabbedPage.csproj|c:\\users\\user\\desktop\\pr\u00E1ctica 7\\tabbedpage\\tabbedpage\\views\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4C444C8D-441B-6DB9-71E1-D0D018414F2C}|TabbedPage\\TabbedPage.csproj|solutionrelative:tabbedpage\\views\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C444C8D-441B-6DB9-71E1-D0D018414F2C}|TabbedPage\\TabbedPage.csproj|c:\\users\\user\\desktop\\pr\u00E1ctica 7\\tabbedpage\\tabbedpage\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4C444C8D-441B-6DB9-71E1-D0D018414F2C}|TabbedPage\\TabbedPage.csproj|solutionrelative:tabbedpage\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{4C444C8D-441B-6DB9-71E1-D0D018414F2C}|TabbedPage\\TabbedPage.csproj|c:\\users\\user\\desktop\\pr\u00E1ctica 7\\tabbedpage\\tabbedpage\\views\\detailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4C444C8D-441B-6DB9-71E1-D0D018414F2C}|TabbedPage\\TabbedPage.csproj|solutionrelative:tabbedpage\\views\\detailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4C444C8D-441B-6DB9-71E1-D0D018414F2C}|TabbedPage\\TabbedPage.csproj|c:\\users\\user\\desktop\\pr\u00E1ctica 7\\tabbedpage\\tabbedpage\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{4C444C8D-441B-6DB9-71E1-D0D018414F2C}|TabbedPage\\TabbedPage.csproj|solutionrelative:tabbedpage\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C444C8D-441B-6DB9-71E1-D0D018414F2C}|TabbedPage\\TabbedPage.csproj|c:\\users\\user\\desktop\\pr\u00E1ctica 7\\tabbedpage\\tabbedpage\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C444C8D-441B-6DB9-71E1-D0D018414F2C}|TabbedPage\\TabbedPage.csproj|solutionrelative:tabbedpage\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C444C8D-441B-6DB9-71E1-D0D018414F2C}|TabbedPage\\TabbedPage.csproj|c:\\users\\user\\desktop\\pr\u00E1ctica 7\\tabbedpage\\tabbedpage\\views\\detailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C444C8D-441B-6DB9-71E1-D0D018414F2C}|TabbedPage\\TabbedPage.csproj|solutionrelative:tabbedpage\\views\\detailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C444C8D-441B-6DB9-71E1-D0D018414F2C}|TabbedPage\\TabbedPage.csproj|c:\\users\\user\\desktop\\pr\u00E1ctica 7\\tabbedpage\\tabbedpage\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C444C8D-441B-6DB9-71E1-D0D018414F2C}|TabbedPage\\TabbedPage.csproj|solutionrelative:tabbedpage\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C444C8D-441B-6DB9-71E1-D0D018414F2C}|TabbedPage\\TabbedPage.csproj|c:\\users\\user\\desktop\\pr\u00E1ctica 7\\tabbedpage\\tabbedpage\\views\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C444C8D-441B-6DB9-71E1-D0D018414F2C}|TabbedPage\\TabbedPage.csproj|solutionrelative:tabbedpage\\views\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C444C8D-441B-6DB9-71E1-D0D018414F2C}|TabbedPage\\TabbedPage.csproj|c:\\users\\user\\desktop\\pr\u00E1ctica 7\\tabbedpage\\tabbedpage\\views\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C444C8D-441B-6DB9-71E1-D0D018414F2C}|TabbedPage\\TabbedPage.csproj|solutionrelative:tabbedpage\\views\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,80 +46,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProfilePage.xaml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\TabbedPage\\TabbedPage\\Views\\ProfilePage.xaml",
-              "RelativeDocumentMoniker": "TabbedPage\\Views\\ProfilePage.xaml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\TabbedPage\\TabbedPage\\Views\\ProfilePage.xaml",
-              "RelativeToolTip": "TabbedPage\\Views\\ProfilePage.xaml",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAqwAsAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-14T08:55:09.955Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HomePage.xaml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\TabbedPage\\TabbedPage\\Views\\HomePage.xaml",
-              "RelativeDocumentMoniker": "TabbedPage\\Views\\HomePage.xaml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\TabbedPage\\TabbedPage\\Views\\HomePage.xaml",
-              "RelativeToolTip": "TabbedPage\\Views\\HomePage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-14T08:40:26.066Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomePage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\TabbedPage\\TabbedPage\\Views\\HomePage.xaml.cs",
-              "RelativeDocumentMoniker": "TabbedPage\\Views\\HomePage.xaml.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\TabbedPage\\TabbedPage\\Views\\HomePage.xaml.cs",
-              "RelativeToolTip": "TabbedPage\\Views\\HomePage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T08:36:56.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\TabbedPage\\TabbedPage\\App.xaml.cs",
-              "RelativeDocumentMoniker": "TabbedPage\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\TabbedPage\\TabbedPage\\App.xaml.cs",
-              "RelativeToolTip": "TabbedPage\\App.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAcwAkAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T08:35:43.295Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\TabbedPage\\TabbedPage\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "TabbedPage\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\TabbedPage\\TabbedPage\\MainPage.xaml.cs",
-              "RelativeToolTip": "TabbedPage\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T01:15:13.661Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\TabbedPage\\TabbedPage\\MainPage.xaml",
               "RelativeDocumentMoniker": "TabbedPage\\MainPage.xaml",
               "ToolTip": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\TabbedPage\\TabbedPage\\MainPage.xaml",
               "RelativeToolTip": "TabbedPage\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-14T01:12:33.871Z",
+              "WhenOpened": "2026-06-14T09:16:39.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DetailsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\TabbedPage\\TabbedPage\\Views\\DetailsPage.xaml",
+              "RelativeDocumentMoniker": "TabbedPage\\Views\\DetailsPage.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\TabbedPage\\TabbedPage\\Views\\DetailsPage.xaml",
+              "RelativeToolTip": "TabbedPage\\Views\\DetailsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-14T09:13:29.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetailsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\TabbedPage\\TabbedPage\\Views\\DetailsPage.xaml.cs",
+              "RelativeDocumentMoniker": "TabbedPage\\Views\\DetailsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\TabbedPage\\TabbedPage\\Views\\DetailsPage.xaml.cs",
+              "RelativeToolTip": "TabbedPage\\Views\\DetailsPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T09:08:22.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProfilePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\TabbedPage\\TabbedPage\\Views\\ProfilePage.xaml.cs",
+              "RelativeDocumentMoniker": "TabbedPage\\Views\\ProfilePage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\TabbedPage\\TabbedPage\\Views\\ProfilePage.xaml.cs",
+              "RelativeToolTip": "TabbedPage\\Views\\ProfilePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T09:08:13.106Z",
               "EditorCaption": ""
             }
           ]

@@ -7,7 +7,7 @@
         public MainPage()
         {
             InitializeComponent();
-            await Navigation.PushAsync(new UpcomingAppointmentsPage());
+           // await Navigation.PushAsync(new UpcomingAppointmentsPage());
         }
 
         private void OnCounterClicked(object? sender, EventArgs e)

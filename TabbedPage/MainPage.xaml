@@ -19,7 +19,7 @@
 </TabbedPage>
 
 
-<!--Código 2-->
+<!--Código 2
 
 <TabbedPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
@@ -52,9 +52,9 @@
             </ContentPage>
         </DataTemplate>
     </TabbedPage.ItemTemplate>
-</TabbedPage>
+</TabbedPage> -->
 
-<!--Código 3-->
+<!--Código 3
 
 <TabbedPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
@@ -67,7 +67,7 @@
             <local:SchedulePage />
         </x:Arguments>
     </NavigationPage>
-</TabbedPage>
+</TabbedPage>-->
 
 
                

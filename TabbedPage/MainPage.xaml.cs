@@ -1,6 +1,6 @@
 ﻿namespace TabbedPage
 {
-    public partial class MainPage : TabbedPage
+    public partial class MainPage : Microsoft.Maui.Controls.TabbedPage
     {
       
 
@@ -12,6 +12,7 @@
             // Configurar colores adicionales
         SelectedTabColor = Colors.White;
         UnselectedTabColor = Colors.LightGray;
+            
         }
 
         private void OnCounterClicked(object? sender, EventArgs e)

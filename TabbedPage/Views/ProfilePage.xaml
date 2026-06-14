@@ -1,31 +1,23 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="TabbedPage.Views.ProfilePage">
-    
-    <VerticalStackLayout Spacing="15" Padding="20" VerticalOptions="Center">
-        <Frame CornerRadius="50" 
-               HeightRequest="120" 
-               WidthRequest="120"
-               HorizontalOptions="Center"
-               BackgroundColor="{StaticResource PrimaryColor}">
-            <Label Text="👤" 
-                   FontSize="60"
-                   HorizontalOptions="Center"
-                   VerticalOptions="Center"
-                   TextColor="White"/>
-        </Frame>
-        
-        <Entry Placeholder="Nombre" 
-               FontSize="18"/>
-        
-        <Entry Placeholder="Email" 
-               Keyboard="Email"
-               FontSize="18"/>
-        
-        <Button Text="Guardar Perfil" 
-                BackgroundColor="{StaticResource SecondaryColor}"
-                TextColor="White"
-                CornerRadius="10"/>
+             x:Class="TabbedPage.Views.ProfilePage"
+             Title="ProfilePage">
+    <VerticalStackLayout>
+        <Label Text="Bienvenido" 
+          FontSize="32" 
+          HorizontalOptions="Center"
+          TextColor="{StaticResource PrimaryColor}"/>
+
+        <Label Text="Esta es la página de perfil" 
+          FontSize="18"
+          HorizontalOptions="Center"/>
+
+
+
+        <Image Source="dotnet_bot.png" 
+          WidthRequest="200"
+          HeightRequest="200"
+          HorizontalOptions="Center"/>
     </VerticalStackLayout>
 </ContentPage>

@@ -7,8 +7,5 @@ public partial class HomePage : ContentPage
         InitializeComponent();
     }
 
-    private async void OnButtonClicked(object sender, EventArgs e)
-    {
-        await DisplayAlert("Mensaje", "¡Bienvenido a TabbedPage!", "OK");
-    }
+   
 }

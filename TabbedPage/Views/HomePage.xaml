@@ -14,11 +14,7 @@
                    FontSize="18"
                    HorizontalOptions="Center"/>
             
-            <Button Text="Clic aquí" 
-                    BackgroundColor="{StaticResource PrimaryColor}"
-                    TextColor="White"
-                    CornerRadius="10"
-                    Clicked="OnButtonClicked"/>
+            
             
             <Image Source="dotnet_bot.png" 
                    WidthRequest="200"
